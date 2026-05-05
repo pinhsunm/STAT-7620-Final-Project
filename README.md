@@ -31,7 +31,7 @@ Please cite as:
 
 @misc{PCGrad_R_Torch_Sim,
   author = {Pin-Hsun Mao},
-  title = {Pin-Hsun Mao/R_Torch-PCGrad_Simulation},
+  title = {Pin-Hsun Mao/R_Torch_PCGrad_Simulation},
   url = {https://github.com/pinhsunm/STAT-7620-Final-Project/blob/main/PCGrad_sim_final.R},
   year = {2026}
 }
