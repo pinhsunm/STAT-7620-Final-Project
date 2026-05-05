@@ -2,7 +2,7 @@
 
 
 ## Core Simulation File
-* **`PCGrad_sim_final.R`**: This is the **primary R simulation code** used in the final project report. 
+* **`PCGrad_sim_final.R`**: This is the **primary R simulation code** used in this final project report. 
     
 
 ## Dependencies
